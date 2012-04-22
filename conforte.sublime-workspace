@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sho",
+				"showTitle"
+			],
+			[
+				"sql",
+				"sqlXML  (variable)"
+			],
+			[
+				"str",
+				"string  (keyword)"
+			],
+			[
+				"sim",
+				"simpleobj  (variable)"
+			],
+			[
+				"node",
+				"node_name  (variable)"
+			],
+			[
+				"convert",
+				"convertArr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sq",
+				"sqlXML"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"margi",
+				"margin	margin: T R B L"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"font",
+				"font	font-weight: weight"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"preferenc",
+				"Preferences: Settings - Default"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/SITIOS/conforte/js/jquery.cookie.js",
+		"/F/SITIOS/conforte/js/jquery.main.js",
+		"/F/SITIOS/conforte/css/style.css",
+		"/F/SITIOS/conforte/index.php",
+		"/F/SITIOS/conforte/try.php",
+		"/F/SITIOS/conforte/services/controller.php",
+		"/F/SITIOS/conforte/services/mLogin/login.php",
+		"/F/SITIOS/conforte/services/library/SQL.php",
+		"/C/Users/Kerberos/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Kerberos/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/Kerberos/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kerberos/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/F/SITIOS/conforte/index.html",
+		"/F/HTML5/signup_form_WebExpedition18/index.html",
+		"/F/HTML5/signup_form_WebExpedition18/js/jquery.main.js",
+		"/F/SITIOS/conforte/css/style1.css",
+		"/F/SITIOS/conforte/css/960_16_col.css",
+		"/L/db_sys.backup",
+		"/F/SITIOS/conforte/css/960.css",
+		"/F/HTML5/signup_form_WebExpedition18/css/style.css",
+		"/F/HTML5/form.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"america5_dbusr",
+			"america5_usr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"america5",
+			"america5_dbusr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

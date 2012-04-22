@@ -1,0 +1,151 @@
+[14-Apr-2012 16:41:24] PHP Parse error:  syntax error, unexpected '=' in /home/america5/public_html/alpha/services/controller.php on line 143
+[14-Apr-2012 19:33:22] PHP Parse error:  syntax error, unexpected '=' in /home/america5/public_html/alpha/services/controller.php on line 143
+[14-Apr-2012 19:36:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:36:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:50:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:50:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:51:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:51:08] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:52:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 19:52:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:09:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:09:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:24:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:27:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:27:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:42:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:42:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:45:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:45:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:46:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:46:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:52:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:52:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:52:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:52:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:54:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 20:54:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 21:35:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 21:38:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 21:41:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 21:43:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[14-Apr-2012 21:45:34] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/america5/public_html/alpha/services/controller.php:1) in /home/america5/public_html/alpha/services/controller.php on line 2
+[15-Apr-2012 13:21:42] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/america5/public_html/alpha/services/controller.php on line 73
+[15-Apr-2012 13:21:43] PHP Parse error:  syntax error, unexpected '{' in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 13:25:20] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/america5/public_html/alpha/services/controller.php on line 73
+[15-Apr-2012 13:25:20] PHP Parse error:  syntax error, unexpected '{' in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 13:25:43] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/america5/public_html/alpha/services/controller.php on line 73
+[15-Apr-2012 13:25:43] PHP Parse error:  syntax error, unexpected '{' in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 13:34:37] PHP Parse error:  syntax error, unexpected '{' in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 13:42:01] PHP Parse error:  syntax error, unexpected '{' in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 13:43:02] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 13:53:07] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 13:54:13] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 13:55:59] PHP Parse error:  syntax error, unexpected ':' in /home/america5/public_html/alpha/services/controller.php on line 74
+[15-Apr-2012 13:56:56] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:00:56] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:03:32] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:04:52] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:06:11] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:12:11] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:14:40] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:21:17] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:22:42] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for schema common in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:27:18] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation session_master
+CONTEXT:  SQL statement &quot;SELECT estado from common.session_master where ssid =  $1  and client_ip =  $2  and estado ilike '%RRR%'&quot;
+PL/pgSQL function &quot;spu_login&quot; line 13 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:29:34] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation session_master
+CONTEXT:  SQL statement &quot;SELECT estado from common.session_master where ssid =  $1  and client_ip =  $2  and estado ilike '%RRR%'&quot;
+PL/pgSQL function &quot;spu_login&quot; line 13 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:35:50] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation session_master
+CONTEXT:  SQL statement &quot;SELECT estado from common.session_master where ssid =  $1  and client_ip =  $2  and estado ilike '%RRR%'&quot;
+PL/pgSQL function &quot;spu_login&quot; line 13 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:38:54] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation session_master
+CONTEXT:  SQL statement &quot;SELECT estado from common.session_master where ssid =  $1  and client_ip =  $2  and estado ilike '%RRR%'&quot;
+PL/pgSQL function &quot;spu_login&quot; line 13 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:43:29] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation session_master
+CONTEXT:  SQL statement &quot;SELECT estado from common.session_master where ssid =  $1  and client_ip =  $2  and estado ilike '%RRR%'&quot;
+PL/pgSQL function &quot;spu_login&quot; line 13 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:50:47] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for relation usuario
+CONTEXT:  SQL statement &quot;SELECT id_usuario from common.usuario where username =  $1  and (s_password =  $2  or u_password =  $2 )&quot;
+PL/pgSQL function &quot;spu_login&quot; line 18 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 14:53:14] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence session_master_id_session_master_seq
+CONTEXT:  SQL statement &quot;INSERT INTO common.session_master(ssid,client_ip,expiration,estado) VALUES ( $1 , $2 ,now() + interval '5 minutes','RETRY')&quot;
+PL/pgSQL function &quot;spu_login&quot; line 32 at SQL statement in /home/america5/public_html/alpha/services/library/SQL.php on line 54
+[15-Apr-2012 15:12:45] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 26
+[15-Apr-2012 15:12:45] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 15:12:45] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 28
+[15-Apr-2012 15:12:45] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 29
+[15-Apr-2012 15:13:07] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 26
+[15-Apr-2012 15:13:07] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 27
+[15-Apr-2012 15:13:07] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 28
+[15-Apr-2012 15:13:07] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 29
+[15-Apr-2012 15:16:22] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 31
+[15-Apr-2012 15:16:22] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 32
+[15-Apr-2012 15:16:22] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 33
+[15-Apr-2012 15:16:22] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 34
+[15-Apr-2012 15:20:04] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 31
+[15-Apr-2012 15:20:04] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 32
+[15-Apr-2012 15:20:04] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 33
+[15-Apr-2012 15:20:04] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 34
+[15-Apr-2012 15:23:51] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 31
+[15-Apr-2012 15:23:51] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 33
+[15-Apr-2012 15:23:51] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 34
+[15-Apr-2012 15:23:51] PHP Warning:  Attempt to modify property of non-object in /home/america5/public_html/alpha/services/library/SQL.php on line 220
+[15-Apr-2012 15:28:56] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 31
+[15-Apr-2012 15:28:56] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 33
+[15-Apr-2012 15:28:56] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 34
+[15-Apr-2012 15:28:56] PHP Warning:  Attempt to modify property of non-object in /home/america5/public_html/alpha/services/library/SQL.php on line 220
+[15-Apr-2012 15:30:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 37
+[15-Apr-2012 15:30:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:30:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:32:00] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 37
+[15-Apr-2012 15:32:00] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:32:00] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:32:31] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 37
+[15-Apr-2012 15:32:31] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:32:31] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:35:08] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 37
+[15-Apr-2012 15:35:08] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:35:08] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:35:59] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 37
+[15-Apr-2012 15:35:59] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:35:59] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:38:37] PHP Parse error:  syntax error, unexpected T_ECHO in /home/america5/public_html/alpha/services/mLogin/login.php on line 26
+[15-Apr-2012 15:39:28] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 38
+[15-Apr-2012 15:39:28] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:39:28] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:41:27] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 38
+[15-Apr-2012 15:41:27] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:41:27] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:41:47] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 38
+[15-Apr-2012 15:41:47] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:41:47] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:50:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 38
+[15-Apr-2012 15:50:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 15:50:26] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:52:25] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:52:25] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:52:25] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 42
+[15-Apr-2012 15:53:24] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 15:53:24] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 15:53:24] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 42
+[15-Apr-2012 16:15:40] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 16:15:40] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 16:15:40] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 42
+[15-Apr-2012 16:17:52] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 39
+[15-Apr-2012 16:17:52] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 16:17:52] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 41
+[15-Apr-2012 16:17:52] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 42
+[15-Apr-2012 16:49:08] PHP Parse error:  syntax error, unexpected '=' in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 16:57:08] PHP Parse error:  syntax error, unexpected '[' in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 16:58:09] PHP Parse error:  syntax error, unexpected '[' in /home/america5/public_html/alpha/services/mLogin/login.php on line 40
+[15-Apr-2012 16:59:32] PHP Warning:  Attempt to assign property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 43
+[15-Apr-2012 17:00:22] PHP Warning:  Attempt to modify property of non-object in /home/america5/public_html/alpha/services/mLogin/login.php on line 43
